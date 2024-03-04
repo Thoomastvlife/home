@@ -164,16 +164,16 @@ footer {
             <a href="#services" class="cta-button">了解更多</a>
         </div>
     </section>
-
-    <section id="about" class="about-us">
-        <h2>關於我們</h2>
-        <p>我們致力於提供最優質的產品和服務，滿足客戶的需求。Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo in libero convallis dapibus.</p>
-    </section>
     <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
 
 <form>
     <div class="d6ae0d37-804f-465a-bb3b-a66c5f901722" data-sitekey="ES_f25ff07e986b4af3a26a9e0c79e07d33"></div>
 </form>
+    <section id="about" class="about-us">
+        <h2>關於我們</h2>
+        <p>我們致力於提供最優質的產品和服務，滿足客戶的需求。Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget justo in libero convallis dapibus.</p>
+    </section>
+
 
     <section id="services" class="services">
         <h2>服務</h2>
